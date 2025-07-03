@@ -16,6 +16,7 @@ Other: yes
 - lynx
 - nc
 - Powershell (invoke-webrequest)
+- rclone
 - rsync
 - scp/sftp
 - w3m
