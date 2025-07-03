@@ -1,8 +1,10 @@
+---
+Type: check-boxes
+---
+
 # Check the protocols you use curl/libcurl for
 
 Within the let's say last 2 years or so.
-
-Type: Check-boxes
 
 - DICT
 - FILE
