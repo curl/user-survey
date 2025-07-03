@@ -43,6 +43,5 @@ Questions and related metadata for the annual curl user survey
 38. [Which of these APIs would you use if they existed in libcurl?](Q-libcurl-api.md)
 39. [Have you used the trurl tool?](Q-trurl.md)
 40. [Have you used the wcurl tool?](Q-wcurl.md)
-41. [How many installations would you say curl and libcurl run in?](Q-many-installs.md)
 43. [Which question would you like to see in this survey next year?](Q-next-year.md)
 44. [Anything else you think we should know?](Q-anything-else.md)
