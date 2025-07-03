@@ -1,6 +1,7 @@
-# Do you use curl/libcurl on multiple platforms?
-
+---
 Type: radio buttons
+---
+# Do you use curl/libcurl on multiple platforms?
 
 - No, just one
 - Yes, 2 - 3

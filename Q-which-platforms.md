@@ -1,7 +1,10 @@
-# You use curl/libcurl on which platforms?
-
+---
 Type: check-boxes
 Other: yes
+---
+
+# You use curl/libcurl on which platforms?
+
 
 - Windows
 - Linux

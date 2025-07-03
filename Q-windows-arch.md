@@ -1,3 +1,6 @@
+---
+Type: check-boxes
+---
 # If you use curl on Windows, which architecture(s)?
 
 Type: check-boxes

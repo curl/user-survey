@@ -1,10 +1,11 @@
+---
+Type: check-boxes
+Other: yes
+---
 # If you use curl on Windows, which Windows versions?
 
 Select the all ones you use curl on (if any). (If you use curl in WSL in
 Windows 10, that is still Windows 10!)
-
-Type: check-boxes
-Other: yes
 
 - Windows 11
 - Windows 10
