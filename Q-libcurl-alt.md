@@ -10,6 +10,7 @@ libcurl's primary competitors for your use case
 - asio
 - cpp-netlib
 - homegrown
+- hyper/reqwest
 - libsoup
 - Mac OS/iOS native libs
 - native lib in Perl, Python, Java, Go, Rust, JavaScript etc
