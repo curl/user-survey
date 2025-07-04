@@ -2,7 +2,7 @@
 Type: check-boxes
 Other: yes
 ---
-# What are the primary reasons you don't contribute more to the project?
+# What are the primary reasons you don't contribute more to the curl project?
 
 Mark all you think fit!
 
@@ -15,6 +15,6 @@ Mark all you think fit!
 - I don't like or use email
 - I find it hard to work with the developers
 - my work/legal reasons prohibit me
-- the project doesn't want my changes
+- the curl project doesn't want my changes
 - things get fixed fast enough anyway
 - Too hard to get started

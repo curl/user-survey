@@ -2,7 +2,7 @@
 Type: radio-buttons
 ---
 
-# How good is the project and its members at attribution and giving credits
+# How good is the curl project and its members at attribution and giving credits
 
 1 means really bad. 5 means really good.
 
