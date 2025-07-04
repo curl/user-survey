@@ -2,7 +2,7 @@
 Type: radio-buttons
 ---
 
-# How good is the project and its members at information about what is going on
+# How good is the curl project and its members at information about what is going on
 
 1 means really bad. 5 means really good.
 

@@ -3,7 +3,7 @@ Type: radio-buttons
 Other: yes
 ---
 
-# How good is the project and its members at pull-requests
+# How good is the curl project and its members at pull-requests
 
 and changes provided using other means.
 
