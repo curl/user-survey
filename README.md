@@ -35,7 +35,6 @@ Questions and related metadata for the annual curl user survey
 31. [How good is the curl project and its members at information](Q-rate-info.md)
 32. [How good is the curl project and its members at security](Q-rate-security.md)
 33. [Which are the curl project’s best areas?](Q-best-areas.md)
-33. [Which are the curl project’s worst areas?](Q-worst-areas.md)
 34. [If you couldn't use libcurl, what would be your preferred transfer library alternatives?](Q-libcurl-alt.md)
 35. [Which other download utilities do you normally use?](Q-download-utils.md)
 36. [Which of these features would you like to see curl support?](Q-want-features.md)
