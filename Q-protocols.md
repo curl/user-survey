@@ -19,6 +19,7 @@ Within the let's say last 2 years or so.
 - LDAP
 - LDAPS
 - MQTT
+- MQTTS
 - POP3
 - POP3S
 - RTMP
