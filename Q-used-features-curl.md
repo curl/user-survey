@@ -9,8 +9,6 @@ Select all the ones you used within the last year.
 - .netrc
 - Alt-Svc
 - Bandwidth rate limiting
-- curl_multi_socket API (event-based)
-- CURLOPT_FAILONERROR
 - DNS-over-HTTPS (DoH)
 - ECH
 - HSTS
@@ -26,6 +24,4 @@ Select all the ones you used within the last year.
 - NTLM authentication
 - SOCKS proxy
 - TCP keepalive
-- the share interface
 - UNIX domain sockets
-- using libcurl multi-threaded
