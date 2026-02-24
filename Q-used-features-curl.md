@@ -22,6 +22,7 @@ Select all the ones you used within the last year.
 - mTLS (TLS client certificates)
 - MultiSSL - select TLS backend at runtime
 - NTLM authentication
+- Parallel downloads
 - SOCKS proxy
 - TCP keepalive
 - UNIX domain sockets
