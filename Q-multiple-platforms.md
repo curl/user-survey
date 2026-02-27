@@ -1,5 +1,5 @@
 ---
-Type: radio buttons
+Type: radio-buttons
 ---
 # Do you use curl/libcurl on multiple platforms?
 
