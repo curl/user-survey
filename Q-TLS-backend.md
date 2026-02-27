@@ -12,12 +12,12 @@ Other: yes
 - GSkit
 - I don't know
 - I use a curl without TLS support
-- libressl
+- LibreSSL
 - mbedTLS
 - NSS
 - OpenSSL
 - quictls
-- rustls
+- Rustls
 - Schannel (windows)
 - Secure Transport (macOS/iOS)
 - wolfSSL
