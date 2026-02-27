@@ -5,7 +5,7 @@ Other: yes
 # What communication channels would you like the curl project to use (more)?
 
 - Bluesky
-- Discource
+- Discourse
 - Facebook
 - GitHub discussions
 - IRC
