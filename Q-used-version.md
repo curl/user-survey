@@ -1,5 +1,5 @@
 ---
-Type: drop-down
+Type: radio-buttons
 ---
 
 # Tell us the version number of a current curl install you use!
@@ -27,3 +27,8 @@ Type: drop-down
 - 8.12*
 - 8.13*
 - 8.14*
+- 8.15*
+- 8.16*
+- 8.17*
+- 8.18*
+- 8.19*
