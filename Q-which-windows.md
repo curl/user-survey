@@ -4,8 +4,8 @@ Other: yes
 ---
 # If you use curl on Windows, which Windows versions?
 
-Select the all ones you use curl on (if any). (If you use curl in WSL in
-Windows 10, that is still Windows 10!)
+Select the all ones you use curl on - if any. If you use curl in WSL in
+Windows 10, that is still Windows 10.
 
 - Windows 11
 - Windows 10
